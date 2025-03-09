@@ -2,5 +2,7 @@
 
 
 TEAM:
-MERT BALÇIK
+MERT BALÇIK, 
+
+
 DUHA EMİR GANİOĞLU
