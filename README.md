@@ -1,4 +1,4 @@
-# comp319a-mobile-device-programming-project-3-codediversss
+# comp319a-mobile-device-programming-project-3
 
 
 TEAM:
